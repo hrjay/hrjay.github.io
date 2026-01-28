@@ -6,7 +6,6 @@ This blog documents what I learn, what I break, and what I fix.
 
 ## Latest Posts
 - [Understanding NAT with Python](posts/nat-python.md)
-- [Setting Up SSH Keys on Windows](posts/ssh-keys.md)
 - [My Oracle Cloud Experiments](posts/oracle-cloud.md)
 
 ---
